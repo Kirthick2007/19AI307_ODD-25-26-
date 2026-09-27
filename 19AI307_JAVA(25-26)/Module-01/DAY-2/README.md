@@ -30,8 +30,8 @@ To write a Java program that reads a DNA number and determines whether it is Acc
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: NAVADEEP S
-RegisterNumber:  212224230180
+Developed by: kirthick sha R
+RegisterNumber:  212224230124
 */
 ```
 ## SOURCE CODE:
